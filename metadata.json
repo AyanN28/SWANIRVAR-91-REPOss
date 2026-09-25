@@ -1,0 +1,10 @@
+{
+  "name": "Remix SWANIRVAR",
+  "description": "SWANIRVAR — Sovereign national platform with 10-second brand motion identity preloader, geographically accurate prototype states map, real-time statistics, and multilingual vernacular voice intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
